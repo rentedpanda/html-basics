@@ -1,0 +1,18 @@
+.para{
+    color: black !important;
+    border: 1px solid plum;
+    color: plum;
+    padding: 20px;
+    border-radius: 20px;
+    width: auto;
+    text-align: center;
+    cursor: pointer;
+}
+.para:hover{
+    color: purple;
+    border-color:purple ;
+}
+
+.paraWrapper{
+    max-width: 10em;
+}
