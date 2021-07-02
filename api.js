@@ -25,3 +25,4 @@ function loadDoc2(){
 }
 
 loadDoc2()
+console.log("This is shreya.");
